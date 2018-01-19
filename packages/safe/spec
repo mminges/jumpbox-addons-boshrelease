@@ -1,0 +1,7 @@
+---
+name: safe
+
+dependencies: []
+
+files:
+- safe/safe-linux-amd64

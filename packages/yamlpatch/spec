@@ -1,0 +1,7 @@
+---
+name: yamlpatch
+
+dependencies: []
+
+files:
+- yamlpatch/yaml_patch_linux

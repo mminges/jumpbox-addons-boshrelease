@@ -1,0 +1,5 @@
+set -e
+
+mkdir -p ${BOSH_INSTALL_TARGET}/bin
+tar xf cf-cli/cf-cli_*_linux_x86-64.tgz
+cp cf-cli/cf ${BOSH_INSTALL_TARGET}/bin/cf

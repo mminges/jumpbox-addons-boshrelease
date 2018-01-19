@@ -1,0 +1,5 @@
+set -e
+
+mkdir -p ${BOSH_INSTALL_TARGET}/bin
+cp yamlpatch/yaml_patch_linux ${BOSH_INSTALL_TARGET}/bin/yamlpatch
+chmod 755 ${BOSH_INSTALL_TARGET}/bin/yamlpatch

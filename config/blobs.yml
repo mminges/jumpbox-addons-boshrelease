@@ -1,0 +1,27 @@
+bosh/bosh-cli-2.0.48-linux-amd64:
+  size: 27588734
+  sha: c807f1938494f4280d65ebbdc863eda3f883d72e
+cf-cli/cf-cli_6.34.1_linux_x86-64.tgz:
+  size: 5879397
+  sha: ab0ddec89deeacee58e26ae4469c683e61be2325
+fly/fly_linux_amd64:
+  size: 15196712
+  sha: 6ef3f4ac34f2c2ffff693e3ed0a9325157b015f4
+jq/jq-linux64:
+  size: 3027945
+  sha: d8e36831c3c94bb58be34dd544f44a6c6cb88568
+safe/safe-linux-amd64:
+  size: 7841177
+  sha: 29840baa0669be72a051df1967a346e43c2156af
+spruce/spruce-linux-amd64:
+  size: 9590977
+  sha: 336fd8ae559f077ca4c4d7ad1d0a14d6e7c7fcc2
+terraform/terraform_0.11.2_linux_amd64.zip:
+  size: 15306618
+  sha: 370e8b3d07deed68696791dcc1b247dab81d7d9f
+vault/vault_0.9.1_linux_amd64.zip:
+  size: 17784524
+  sha: 32e6039b5c226f2d456447da7fba0c52c690822e
+yamlpatch/yaml_patch_linux:
+  size: 3461630
+  sha: 21804594de7a4bc42be9a5f5a73895eb69bf3c88

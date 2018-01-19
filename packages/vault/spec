@@ -1,0 +1,7 @@
+---
+name: vault
+
+dependencies: []
+
+files:
+- vault/vault_0.9.1_linux_amd64.zip
