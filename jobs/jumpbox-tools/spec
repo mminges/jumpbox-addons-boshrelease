@@ -2,7 +2,7 @@
 name: jumpbox-tools
 
 templates:
-  pre-start.sh.erb: bin/pre-start
+  jumpbox-tools_ctl: bin/jumpbox-tools_ctl
 
 packages:
 - cf-cli
